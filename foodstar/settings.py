@@ -33,11 +33,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-dutchmims-foodstar-5rx27jgqz9g.ws-eu104.gitpod.io',
-    'foodstar.herokuapp.com', 'localhost',
+    'foodstar-c90a43cb2922.herokuapp.com', 'localhost',
     ]
 
 # Application definition
-
 
 INSTALLED_APPS = [
     'django.contrib.admin',
